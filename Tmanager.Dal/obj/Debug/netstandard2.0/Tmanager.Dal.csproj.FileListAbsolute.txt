@@ -1,0 +1,5 @@
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Dal\bin\Debug\netstandard2.0\Tmanager.Common.dll
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Dal\obj\Debug\netstandard2.0\Tmanager.Dal.csprojAssemblyReference.cache
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Dal\obj\Debug\netstandard2.0\Tmanager.Dal.csproj.CoreCompileInputs.cache
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Dal\obj\Debug\netstandard2.0\Tmanager.Dal.AssemblyInfoInputs.cache
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Dal\obj\Debug\netstandard2.0\Tmanager.Dal.AssemblyInfo.cs

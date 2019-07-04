@@ -1,0 +1,4 @@
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.BLL\obj\Debug\netstandard2.0\Tmanager.BLL.csprojAssemblyReference.cache
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.BLL\obj\Debug\netstandard2.0\Tmanager.BLL.csproj.CoreCompileInputs.cache
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.BLL\obj\Debug\netstandard2.0\Tmanager.BLL.AssemblyInfoInputs.cache
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.BLL\obj\Debug\netstandard2.0\Tmanager.BLL.AssemblyInfo.cs

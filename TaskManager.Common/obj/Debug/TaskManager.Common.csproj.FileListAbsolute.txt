@@ -1,0 +1,9 @@
+C:\Users\haardiksikka\source\repos\TmanagerFramework\TaskManager.Common\bin\Debug\TaskManager.Common.dll
+C:\Users\haardiksikka\source\repos\TmanagerFramework\TaskManager.Common\bin\Debug\TaskManager.Common.pdb
+C:\Users\haardiksikka\source\repos\TmanagerFramework\TaskManager.Common\obj\Debug\TaskManager.Common.csproj.CoreCompileInputs.cache
+C:\Users\haardiksikka\source\repos\TmanagerFramework\TaskManager.Common\obj\Debug\TaskManager.Common.dll
+C:\Users\haardiksikka\source\repos\TmanagerFramework\TaskManager.Common\obj\Debug\TaskManager.Common.pdb
+C:\Users\haardiksikka\source\repos\TmanagerFramework\TaskManager.Common\bin\Debug\FluentValidation.dll
+C:\Users\haardiksikka\source\repos\TmanagerFramework\TaskManager.Common\bin\Debug\FluentValidation.xml
+C:\Users\haardiksikka\source\repos\TmanagerFramework\TaskManager.Common\obj\Debug\TaskManager.Common.csprojAssemblyReference.cache
+C:\Users\haardiksikka\source\repos\TmanagerFramework\TaskManager.Common\obj\Debug\TaskManager.Common.csproj.CopyComplete

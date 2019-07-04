@@ -1,0 +1,9 @@
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Common\bin\Debug\netstandard2.0\Tmanager.Common.deps.json
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Common\bin\Debug\netstandard2.0\Tmanager.Common.dll
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Common\bin\Debug\netstandard2.0\Tmanager.Common.pdb
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Common\obj\Debug\netstandard2.0\Tmanager.Common.csprojAssemblyReference.cache
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Common\obj\Debug\netstandard2.0\Tmanager.Common.csproj.CoreCompileInputs.cache
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Common\obj\Debug\netstandard2.0\Tmanager.Common.AssemblyInfoInputs.cache
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Common\obj\Debug\netstandard2.0\Tmanager.Common.AssemblyInfo.cs
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Common\obj\Debug\netstandard2.0\Tmanager.Common.dll
+C:\Users\haardiksikka\source\repos\TmanagerFramework\Tmanager.Common\obj\Debug\netstandard2.0\Tmanager.Common.pdb
